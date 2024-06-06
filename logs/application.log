@@ -7,3 +7,6 @@ time="2024-06-06T09:30:52+07:00" level=error msg="Log outputted to log file"
 time="2024-06-06T09:31:19+07:00" level=info msg="Log outputted to log file"
 time="2024-06-06T09:31:19+07:00" level=warning msg="Log outputted to log file"
 time="2024-06-06T09:31:19+07:00" level=error msg="Log outputted to log file"
+time="2024-06-06T09:39:42+07:00" level=info msg="Log outputted to log file" loggedin_user=mnabil1718
+time="2024-06-06T09:39:42+07:00" level=info msg="Log outputted to log file" current_user=mnabil1718 role=admin
+time="2024-06-06T09:39:42+07:00" level=warning msg="User unauthorized login" authorized=false role=admin username=mnabil1718
